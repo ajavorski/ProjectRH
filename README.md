@@ -1,5 +1,5 @@
 # ProjectRH
 
-What is it?
+## What is it?
 
-Why using gamification?
+## Why uses gamification?
